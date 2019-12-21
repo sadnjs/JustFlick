@@ -1,0 +1,41 @@
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\시러봇.exe.config
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\시러봇.exe
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\시러봇.pdb
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.CustomTrackbar.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.Rework_Main.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.Properties.Resources.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.csproj.GenerateResource.cache
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.csproj.CoreCompileInputs.cache
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.csproj.CopyComplete
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.exe
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.pdb
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\Firebase.Auth.dll
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\FireSharp.dll
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\RestSharp.dll
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.csprojAssemblyReference.cache
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.Login.resources
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\bin\x64\Release\시러봇.exe.config
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\bin\x64\Release\시러봇.exe
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\bin\x64\Release\시러봇.pdb
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\시러봇.csprojAssemblyReference.cache
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\시러봇.CustomTrackbar.resources
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\시러봇.Login.resources
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\시러봇.Rework_Main.resources
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\시러봇.Properties.Resources.resources
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\시러봇.csproj.GenerateResource.cache
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\시러봇.csproj.CopyComplete
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\시러봇.exe
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\시러봇.pdb
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.csprojAssemblyReference.cache
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.CustomTrackbar.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.Login.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.Rework_Main.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.Properties.Resources.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.csproj.GenerateResource.cache
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.csproj.CoreCompileInputs.cache
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.exe
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.pdb
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\bin\x64\Release\시러봇.exe.config
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\bin\x64\Release\시러봇.exe
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\bin\x64\Release\시러봇.pdb
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick (1)\JustFlick\obj\x64\Release\시러봇.csproj.CopyComplete

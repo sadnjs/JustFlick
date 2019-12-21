@@ -1,0 +1,13 @@
+D:\개발파일\JustFlick\JustFlick\bin\Release\JustFlick.exe.config
+D:\개발파일\JustFlick\JustFlick\bin\Release\JustFlick.exe
+D:\개발파일\JustFlick\JustFlick\bin\Release\JustFlick.pdb
+D:\개발파일\JustFlick\JustFlick\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\개발파일\JustFlick\JustFlick\obj\Release\JustFlick.csprojAssemblyReference.cache
+D:\개발파일\JustFlick\JustFlick\obj\Release\JustFlick.CustomTrackbar.resources
+D:\개발파일\JustFlick\JustFlick\obj\Release\JustFlick.JustFlick_Main.resources
+D:\개발파일\JustFlick\JustFlick\obj\Release\JustFlick.Properties.Resources.resources
+D:\개발파일\JustFlick\JustFlick\obj\Release\JustFlick.csproj.GenerateResource.cache
+D:\개발파일\JustFlick\JustFlick\obj\Release\JustFlick.csproj.CoreCompileInputs.cache
+D:\개발파일\JustFlick\JustFlick\obj\Release\JustFlick.csproj.CopyComplete
+D:\개발파일\JustFlick\JustFlick\obj\Release\JustFlick.exe
+D:\개발파일\JustFlick\JustFlick\obj\Release\JustFlick.pdb

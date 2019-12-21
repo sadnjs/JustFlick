@@ -1,0 +1,41 @@
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\Rework.exe.config
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\Rework.exe
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\Rework.pdb
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\Bunifu_UI_v1.5.3.dll
+D:\개발파일\JustFlick\JustFlick\obj\x64\Release\Rework.CustomTrackbar.resources
+D:\개발파일\JustFlick\JustFlick\obj\x64\Release\Rework.Rework_Main.resources
+D:\개발파일\JustFlick\JustFlick\obj\x64\Release\Rework.Properties.Resources.resources
+D:\개발파일\JustFlick\JustFlick\obj\x64\Release\Rework.csproj.GenerateResource.cache
+D:\개발파일\JustFlick\JustFlick\obj\x64\Release\Rework.csproj.CoreCompileInputs.cache
+D:\개발파일\JustFlick\JustFlick\obj\x64\Release\Rework.csproj.CopyComplete
+D:\개발파일\JustFlick\JustFlick\obj\x64\Release\Rework.exe
+D:\개발파일\JustFlick\JustFlick\obj\x64\Release\Rework.pdb
+D:\개발파일\JustFlick\JustFlick\obj\x64\Release\Rework.csprojAssemblyReference.cache
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\GameOverlay.dll
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.Direct2D1.dll
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.dll
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.DXGI.dll
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\GameOverlay.xml
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.pdb
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.Direct2D1.pdb
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.Direct2D1.xml
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.DXGI.pdb
+D:\개발파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.DXGI.xml
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\GameOverlay.xml
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.pdb
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.Direct2D1.pdb
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.Direct2D1.xml
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.DXGI.pdb
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\SharpDX.DXGI.xml
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\Rework.csprojAssemblyReference.cache
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\Rework.CustomTrackbar.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\Rework.Rework_Main.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\Rework.csproj.GenerateResource.cache
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\Rework.csproj.CoreCompileInputs.cache
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\Rework.csproj.CopyComplete
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\시러봇.exe.config
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\시러봇.exe
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\bin\x64\Release\시러봇.pdb
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.Properties.Resources.resources
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.exe
+C:\Users\pray\Documents\카카오톡 받은 파일\JustFlick\JustFlick\obj\x64\Release\시러봇.pdb

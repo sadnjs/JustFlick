@@ -1,0 +1,12 @@
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\봉순봇.csprojAssemblyReference.cache
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\봉순봇.CustomTrackbar.resources
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\봉순봇.Login.resources
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\봉순봇.Rework_Main.resources
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\봉순봇.csproj.GenerateResource.cache
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\봉순봇.csproj.CopyComplete
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\봉순봇.Properties.Resources.resources
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\bin\x64\Release\봉순봇.exe.config
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\bin\x64\Release\봉순봇.exe
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\bin\x64\Release\봉순봇.pdb
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\봉순봇.exe
+C:\Users\pray\Desktop\핵\오버워치\JustFlick\JustFlick\obj\x64\Release\봉순봇.pdb
